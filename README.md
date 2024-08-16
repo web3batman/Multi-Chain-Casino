@@ -1,5 +1,8 @@
 # Multi-Chain-Casino
-Completed Casino(Crashr, Coinflip, Mines, BlackJack, etc) supported multi-chain coins(eth, sol, base, bitcoin, inj)
+Completed Casino(Crash, Coinflip, Mines, BlackJack, etc) supported multi-chain coins(eth, sol, base, bitcoin, inj)
+
+# User-friendly Casino Games
+Crash, Coinflip, Mines and BlackJack are fully completed with positive supports and feedbacks from users.
 
 # Powerful Random Number Genererator by using Chain Link VRF
 By using chain link VRF, game is getting well-randomized variable for user trust.
