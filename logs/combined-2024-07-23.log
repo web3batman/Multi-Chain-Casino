@@ -1,0 +1,84 @@
+{"level":"info","message":"[Crash Game ServerSocket]::: Initializing game","timestamp":"2024-07-23 23:01:02"}
+{"level":"info","message":"Socket server started","timestamp":"2024-07-23 23:01:02"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb79e7068f8d9b217e021","timestamp":"2024-07-23 23:01:02"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb79e7068f8d9b217e021 with crash point 3.01, user count: 0, bot count: 0","timestamp":"2024-07-23 23:01:13"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 3.01","timestamp":"2024-07-23 23:01:31"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb7bf7068f8d9b217e02d","timestamp":"2024-07-23 23:01:35"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb7bf7068f8d9b217e02d with crash point 2.41, user count: 0, bot count: 0","timestamp":"2024-07-23 23:01:45"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 2.41","timestamp":"2024-07-23 23:02:00"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb7dc7068f8d9b217e038","timestamp":"2024-07-23 23:02:04"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb7dc7068f8d9b217e038 with crash point 32.75, user count: 0, bot count: 0","timestamp":"2024-07-23 23:02:14"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 32.75","timestamp":"2024-07-23 23:03:12"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb8247068f8d9b217e045","timestamp":"2024-07-23 23:03:16"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb8247068f8d9b217e045 with crash point 14.37, user count: 0, bot count: 0","timestamp":"2024-07-23 23:03:26"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 14.37","timestamp":"2024-07-23 23:04:10"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb85e7068f8d9b217e052","timestamp":"2024-07-23 23:04:14"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Initializing game","timestamp":"2024-07-23 23:05:13"}
+{"level":"info","message":"Socket server started","timestamp":"2024-07-23 23:05:13"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending unfinished games :1","timestamp":"2024-07-23 23:05:13"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending unfinished game id: 669fb85e7068f8d9b217e052","timestamp":"2024-07-23 23:05:13"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb899eaeab8e9aa23a0c1","timestamp":"2024-07-23 23:05:13"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb899eaeab8e9aa23a0c1 with crash point 1.48, user count: 0, bot count: 0","timestamp":"2024-07-23 23:05:23"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 1.48","timestamp":"2024-07-23 23:05:30"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb8aeeaeab8e9aa23a0ca","timestamp":"2024-07-23 23:05:34"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb8aeeaeab8e9aa23a0ca with crash point 1.04, user count: 0, bot count: 0","timestamp":"2024-07-23 23:05:44"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 1.04","timestamp":"2024-07-23 23:05:45"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb8bdeaeab8e9aa23a0d3","timestamp":"2024-07-23 23:05:49"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb8bdeaeab8e9aa23a0d3 with crash point 1.06, user count: 0, bot count: 0","timestamp":"2024-07-23 23:05:59"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 1.06","timestamp":"2024-07-23 23:06:00"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb8cceaeab8e9aa23a0dc","timestamp":"2024-07-23 23:06:04"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb8cceaeab8e9aa23a0dc with crash point 3.26, user count: 0, bot count: 0","timestamp":"2024-07-23 23:06:14"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 3.26","timestamp":"2024-07-23 23:06:34"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb8eeeaeab8e9aa23a0e7","timestamp":"2024-07-23 23:06:38"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb8eeeaeab8e9aa23a0e7 with crash point 1.1, user count: 0, bot count: 0","timestamp":"2024-07-23 23:06:48"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 1.1","timestamp":"2024-07-23 23:06:49"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb8fdeaeab8e9aa23a0ee","timestamp":"2024-07-23 23:06:53"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb8fdeaeab8e9aa23a0ee with crash point 1.15, user count: 0, bot count: 0","timestamp":"2024-07-23 23:07:03"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 1.15","timestamp":"2024-07-23 23:07:06"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb90eeaeab8e9aa23a0f7","timestamp":"2024-07-23 23:07:10"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb90eeaeab8e9aa23a0f7 with crash point 3.5, user count: 0, bot count: 0","timestamp":"2024-07-23 23:07:20"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 3.5","timestamp":"2024-07-23 23:07:41"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb931eaeab8e9aa23a102","timestamp":"2024-07-23 23:07:45"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb931eaeab8e9aa23a102 with crash point 2.45, user count: 0, bot count: 0","timestamp":"2024-07-23 23:07:54"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 2.45","timestamp":"2024-07-23 23:08:09"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb94deaeab8e9aa23a10b","timestamp":"2024-07-23 23:08:13"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb94deaeab8e9aa23a10b with crash point 6.9, user count: 0, bot count: 0","timestamp":"2024-07-23 23:08:23"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 6.9","timestamp":"2024-07-23 23:08:55"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb97beaeab8e9aa23a118","timestamp":"2024-07-23 23:08:59"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb97beaeab8e9aa23a118 with crash point 7.49, user count: 0, bot count: 0","timestamp":"2024-07-23 23:09:09"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 7.49","timestamp":"2024-07-23 23:09:43"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb9abeaeab8e9aa23a123","timestamp":"2024-07-23 23:09:47"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb9abeaeab8e9aa23a123 with crash point 1.41, user count: 0, bot count: 0","timestamp":"2024-07-23 23:09:56"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 1.41","timestamp":"2024-07-23 23:10:02"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb9beeaeab8e9aa23a12d","timestamp":"2024-07-23 23:10:06"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb9beeaeab8e9aa23a12d with crash point 2.58, user count: 0, bot count: 0","timestamp":"2024-07-23 23:10:16"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 2.58","timestamp":"2024-07-23 23:10:32"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fb9dceaeab8e9aa23a138","timestamp":"2024-07-23 23:10:36"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fb9dceaeab8e9aa23a138 with crash point 174.18, user count: 0, bot count: 0","timestamp":"2024-07-23 23:10:46"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 174.18","timestamp":"2024-07-23 23:12:12"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fba40eaeab8e9aa23a149","timestamp":"2024-07-23 23:12:16"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fba40eaeab8e9aa23a149 with crash point 1.37, user count: 0, bot count: 0","timestamp":"2024-07-23 23:12:26"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 1.37","timestamp":"2024-07-23 23:12:31"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fba53eaeab8e9aa23a152","timestamp":"2024-07-23 23:12:35"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fba53eaeab8e9aa23a152 with crash point 1.54, user count: 0, bot count: 0","timestamp":"2024-07-23 23:12:45"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 1.54","timestamp":"2024-07-23 23:12:53"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fba69eaeab8e9aa23a15b","timestamp":"2024-07-23 23:12:57"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fba69eaeab8e9aa23a15b with crash point 2.59, user count: 0, bot count: 0","timestamp":"2024-07-23 23:13:07"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 2.59","timestamp":"2024-07-23 23:13:23"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fba87eaeab8e9aa23a164","timestamp":"2024-07-23 23:13:27"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fba87eaeab8e9aa23a164 with crash point 1.41, user count: 0, bot count: 0","timestamp":"2024-07-23 23:13:36"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 1.41","timestamp":"2024-07-23 23:13:42"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fba9aeaeab8e9aa23a16d","timestamp":"2024-07-23 23:13:46"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fba9aeaeab8e9aa23a16d with crash point 1.41, user count: 0, bot count: 0","timestamp":"2024-07-23 23:13:56"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 1.41","timestamp":"2024-07-23 23:14:02"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fbaaeeaeab8e9aa23a176","timestamp":"2024-07-23 23:14:06"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fbaaeeaeab8e9aa23a176 with crash point 1.4, user count: 0, bot count: 0","timestamp":"2024-07-23 23:14:16"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 1.4","timestamp":"2024-07-23 23:14:21"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fbac1eaeab8e9aa23a17f","timestamp":"2024-07-23 23:14:25"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fbac1eaeab8e9aa23a17f with crash point 2.59, user count: 0, bot count: 0","timestamp":"2024-07-23 23:14:35"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 2.59","timestamp":"2024-07-23 23:14:51"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fbadfeaeab8e9aa23a18a","timestamp":"2024-07-23 23:14:55"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fbadfeaeab8e9aa23a18a with crash point 1, user count: 0, bot count: 0","timestamp":"2024-07-23 23:15:05"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Ending game at 1","timestamp":"2024-07-23 23:15:05"}
+{"level":"info","message":"[Crash Game ServerSocket]::: New game created: 669fbaedeaeab8e9aa23a192","timestamp":"2024-07-23 23:15:09"}
+{"level":"info","message":"[Crash Game ServerSocket]::: Starting new game 669fbaedeaeab8e9aa23a192 with crash point 9.64, user count: 0, bot count: 0","timestamp":"2024-07-23 23:15:19"}
